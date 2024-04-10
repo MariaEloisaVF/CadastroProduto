@@ -1,7 +1,7 @@
 #Codigo em python para realizar o cadastro de produtos
 
 def exibir_menu():
-	#menu principal para escolha de opções
+	#função de menu principal para escolha de opções
   print('''Escolha uma opção:
 
 	1. Cadastrar
